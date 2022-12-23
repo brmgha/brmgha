@@ -1,17 +1,17 @@
 # برمجها - بايثون بالعربي
 
-دروس وتمارين بايثون بالعربي ، محرر بايثون اون لاين ، اكواد بايثون جاهزة سكربتات مع أمثلة ، 
+دروس وتمارين بايثون بالعربي ، محرر بايثون اون لاين ، اكواد بايثون جاهزة سكربتات مع أمثلة. 
 
 ## الوصف
 
-An in-depth paragraph about your project and overview of use.
+تعلم بايثون عبر مجموعة من التمارين والدروس الرائعة مجاناً.
 
 ## البداية
 
 ### دروس بايثون
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* في قسم تعلم بايثون العديد من الدروس التي تحتوي شرح مجموعة من كودات بايثون جاهزة,سكربت بايثون جاهز,محرر اكواد بايثون اونلاين.
+* يمكنك دائما مراقبة تقدمك عبر النقاط التي تكتسبها من حل التمرين المرفق مع كل درس وهو لتنمية مهارة حل الاخطاء وتعلم الخوارزميات.  
 
 ### تمارين بايثون
 
@@ -20,7 +20,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### امثلة علي دروس بايثون
 
-[![درس بايثون نوع التعيين القاموس dictionary]([Image URL](https://www.brmgha.com/images/datatype.jpg))]([Link URL](https://www.brmgha.com/learn?t=%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D9%86%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3-dictionary))
+[dictionary:  <img src="https://www.brmgha.com/images/datatype.jpg" width="300">](https://www.brmgha.com/learn?t=%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D9%86%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3-dictionary)
 
 
 ## Help
