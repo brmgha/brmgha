@@ -26,7 +26,7 @@
 * 
 ### امثلة علي دروس بايثون
 
-[dictionary:  <img src="https://www.brmgha.com/images/datatype.jpg" width="300">](https://www.brmgha.com/learn?t=%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D9%86%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3-dictionary)
+[نوع التعيين القاموس dictionary:  <img src="https://www.brmgha.com/images/datatype.jpg" width="250">](https://www.brmgha.com/learn?t=%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D9%86%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3-dictionary)
 
 
 ## المساعدة
@@ -46,6 +46,7 @@
 - https://about.me/brmgha.com
 - https://fb.com/codear.top
 - https://stackoverflow.com/users/20849575/%D8%A8%D8%B1%D9%85%D8%AC%D9%87%D8%A7
+- https://brmghacom.wordpress.com/
 
 
 
