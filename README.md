@@ -45,8 +45,11 @@
 
 - https://about.me/brmgha.com
 - https://fb.com/codear.top
+- https://youtube.com/@brmgha
 - https://stackoverflow.com/users/20849575/%D8%A8%D8%B1%D9%85%D8%AC%D9%87%D8%A7
 - https://brmghacom.wordpress.com/
+- https://brmgha.tumblr.com/
+- https://independent.academia.edu/OsamaRoza
 
 
 
